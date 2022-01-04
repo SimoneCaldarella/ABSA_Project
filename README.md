@@ -11,7 +11,7 @@ Email: simone.caldarella@studenti.unitn.it
 Dataset: https://github.com/lixin4ever/E2E-TBSA
 Paper: https://aclanthology.org/P19-1051.pdf
     
-### To install the libraries need run the following command:
+### To install the required libraries run the following command:
 `pip install -r requirements.txt`
     
 ### Usage:
