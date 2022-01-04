@@ -1,1 +1,24 @@
-# ABSA_Project
+# Two Stage Aspect-Based Sentiment Analysis: Multi-Target extraction and Polarity Classification
+### *NLU Final Project: Target/Aspect Based Sentiment Analysis (T/ABSA)*
+---
+
+### Author info: 
+    Student name: Simone Caldarella
+    Student Number: 224434
+    Email: simone.caldarella@studenti.unitn.it
+
+### Other info:
+
+    Dataset: https://github.com/lixin4ever/E2E-TBSA
+    Paper: https://aclanthology.org/P19-1051.pdf
+    
+### To install the libraries need run the following command:
+`pip install torch, matplotlib, numpy, tdqm, transformers`
+    
+### Usage:
+
+1) Run the block with all the imports
+2) Be sure to have selected the colab flag to false if you are not using on it, and the basepath to your own (path/to/NLU_Project)
+3) All the modalities can be customized from their workspace functions
+4) When you run the evaulation (target extraction or polarity classification) be sure to have added the basepath of the model in the workspace variable
+5) For a detailed description of all the parameters download the report above
