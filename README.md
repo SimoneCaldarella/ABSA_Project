@@ -1,6 +1,6 @@
 # Two Stage Aspect-Based Sentiment Analysis: Multi-Target extraction and Polarity Classification
 
-A two stage ABSA span based extraction and classification model, developed in PyTorch, based on the [paper](https://github.com/huminghao16/SpanABSA) by Hu et Al., and tested on SemEval2014 (laptop14).  
+A two stage ABSA span based extraction and classification model, developed in PyTorch, based on the [work](https://github.com/huminghao16/SpanABSA) by Hu et Al., and tested on SemEval2014 (laptop14).  
 
 The report of the project can be downloaded [here](./NLU_Report.pdf).
 
