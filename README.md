@@ -1,19 +1,18 @@
 # Two Stage Aspect-Based Sentiment Analysis: Multi-Target extraction and Polarity Classification
-### *NLU Final Project: Target/Aspect Based Sentiment Analysis (T/ABSA)*
+
 ---
 
 ### Author info: 
-    Student name: Simone Caldarella
-    Student Number: 224434
-    Email: simone.caldarella@studenti.unitn.it
+Student name: Simone Caldarella
+Student Number: 224434
+Email: simone.caldarella@studenti.unitn.it
 
 ### Other info:
-
-    Dataset: https://github.com/lixin4ever/E2E-TBSA
-    Paper: https://aclanthology.org/P19-1051.pdf
+Dataset: https://github.com/lixin4ever/E2E-TBSA
+Paper: https://aclanthology.org/P19-1051.pdf
     
 ### To install the libraries need run the following command:
-`pip install torch, matplotlib, numpy, tdqm, transformers`
+
     
 ### Usage:
 
